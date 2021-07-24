@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+
+*{
+    font-family: 'Otomanopee One'
+}
+
+.navbar-bar{
+    display: inline;
+}
+
+.nav-item{
+    display: inline-block;
+}
+
+.navbar{
+    padding: 1em;
+    background-color: #c90043;
+}
+
+#head-line{
+    background-color: #ffd857;
+    color: #fefefe;
+    height: 2em;
+}
+
+.Video{
+    margin: 1em;
+}
+
+.contact{
+    padding: 1em;
+    margin-bottom: 10px;
+}
+
+.contact iframe{
+    border-radius: 20px;
+    box-shadow: 12px 10px 15px #c2c2c2;
+}
